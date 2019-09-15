@@ -3,7 +3,7 @@ package command
 import (
 	"log"
 
-	"../api"
+	"github.com/jackn3o/api-service/api"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"../../middleware/jwt"
+	"github.com/jackn3o/api-service/middleware/jwt"
 	// "github.com/dhax/go-base/email"
-	"../../logging"
+	"github.com/jackn3o/api-service/logging"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/render"
 	validation "github.com/go-ozzo/ozzo-validation"

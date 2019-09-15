@@ -14,6 +14,8 @@ require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mssola/user_agent v0.5.0
+	github.com/onsi/ginkgo v1.10.1 // indirect
+	github.com/onsi/gomega v1.7.0 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/viper v1.4.0

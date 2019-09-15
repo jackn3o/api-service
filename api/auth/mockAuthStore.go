@@ -1,6 +1,6 @@
 package auth
 
-import 	"../../middleware/jwt"
+import 	"github.com/jackn3o/api-service/middleware/jwt"
 
 // MockAuthStore mocks AuthStorer interface.
 type MockAuthStore struct {

@@ -4,7 +4,7 @@ import (
 	"strings"
 	"time"
 
-	"../../middleware/jwt"
+	"github.com/jackn3o/api-service/middleware/jwt"
 	validation "github.com/go-ozzo/ozzo-validation"
 	"github.com/go-ozzo/ozzo-validation/is"
 	"github.com/go-pg/pg/orm"

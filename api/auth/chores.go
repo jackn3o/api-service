@@ -3,7 +3,7 @@ package auth
 import (
 	"time"
 
-	"../../logging"
+	"github.com/jackn3o/api-service/logging"
 )
 
 func (rs *Resource) choresTicker() {
